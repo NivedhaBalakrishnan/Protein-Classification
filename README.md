@@ -1,3 +1,3 @@
 # Protein-Classification
 
-This is new branch
+Supervised Machine Learning binary classification
